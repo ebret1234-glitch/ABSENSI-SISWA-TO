@@ -1,0 +1,6 @@
+{
+  "name": "Absensi Siswa Teknik Otomotif",
+  "description": "Aplikasi Absensi Siswa Teknik Otomotif SMK 18 LPPM RI Sidareja dengan akses Siswa, Admin, dan Wali Kelas",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
